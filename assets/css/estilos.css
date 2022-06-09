@@ -20,6 +20,10 @@ body {
   background-position: center;
 }
 
+.bg-proyectos {
+  background-color: cadetblue;
+}
+
 /* Contacto */
 
 #Contacto form label {
